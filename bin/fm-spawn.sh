@@ -2622,10 +2622,11 @@ relaunch_resume_args() {  # <harness> <backend> <target>
 # an absent `opencode`, a failed or slow listing, and a model missing from the
 # listing all print nothing, and the caller then omits the variant.
 opencode_model_variants() { # <provider/model>
-  local model=$1 provider block
+  local model=$1 provider block bound=${FM_OPENCODE_MODELS_TIMEOUT:-15}
   provider=${model%%/*}
+  case "$bound" in ''|*[!0-9]*|0*) bound=15 ;; esac
   command -v opencode >/dev/null 2>&1 || return 0
-  block=$(fm_run_timed "${FM_OPENCODE_MODELS_TIMEOUT:-15}" opencode models "$provider" --verbose 2>/dev/null |
+  block=$(fm_run_timed "$bound" opencode models "$provider" --verbose < /dev/null 2>/dev/null |
     awk -v model="$model" '
       $0 == model { grab = 1; next }
       grab && $0 ~ /^[A-Za-z0-9][A-Za-z0-9._+-]*\// { exit }
