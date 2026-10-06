@@ -1,0 +1,1 @@
+spawned livenv1 harness=opencode kind=ship mode=no-mistakes yolo=off window=firstmate:fm-livenv1 worktree=/tmp/fm-live-root/novariants/treehouse/.treehouse/project-972ddd/1/project

@@ -1,0 +1,14 @@
+window=firstmate:fm-liveox1
+endpoint_task_id=liveox1
+worktree=/tmp/fm-live-root/openaixhigh/treehouse/.treehouse/project-f096b7/1/project
+project=/tmp/fm-live-root/openaixhigh/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/liveox1
+tasktmp=/tmp/fm-liveox1
+model=openai/gpt-5.6-sol
+effort=xhigh
+busy_gen=g1791314871.385306.24603
+spawn_gen=s1791314872.384864.2981

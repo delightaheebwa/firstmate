@@ -1,0 +1,1 @@
+spawned livelack1 harness=opencode kind=ship mode=no-mistakes yolo=off window=firstmate:fm-livelack1 worktree=/tmp/fm-live-root/cataloglack/treehouse/.treehouse/project-8343d3/1/project

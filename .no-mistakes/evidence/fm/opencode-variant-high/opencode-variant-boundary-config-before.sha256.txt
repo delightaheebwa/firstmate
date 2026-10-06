@@ -1,0 +1,8 @@
+663a068e76d264d0bc6740f5450b6c4193c7b41ecf5e0dc222485b8a17404d95  /home/delightaheebwa/.config/opencode/.gitignore
+dc79b96c1cd123ff2254efd1830b21cfb4c0557ab01f8b9972fdff6df8a85400  /home/delightaheebwa/.config/opencode/herdr-tui-session.js
+f2e407032af1ed069eff43357fce24346d8c8edc31cb736ab9091c063f0ea0f9  /home/delightaheebwa/.config/opencode/opencode.json
+fb067af039252d48ef5b5c573a5e12c17357af4324b218aca5efa36f882846dd  /home/delightaheebwa/.config/opencode/opencode.json.tui-migration.bak
+03acb0f9a0c48470d1b64ff6c036c5788be9f27e186c0a556a0b1f6731548b80  /home/delightaheebwa/.config/opencode/package.json
+38c20e1a8d1b857aad8d699c083806e8c8f31fc6c00fd0d4a22921d78ac1fc44  /home/delightaheebwa/.config/opencode/package-lock.json
+fd8a0ef331fa22d8f778790a3c6569cf55bb196a80b7a8f7bc8fb16b52810d59  /home/delightaheebwa/.config/opencode/tui.json
+6443aefa781c310f4beec27e3308ee37e4b2cae0c875556701940493929025e0  /home/delightaheebwa/.config/opencode/tui.jsonc

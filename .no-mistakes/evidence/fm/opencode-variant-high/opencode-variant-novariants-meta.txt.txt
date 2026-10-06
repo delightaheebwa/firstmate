@@ -1,0 +1,14 @@
+window=firstmate:fm-livenv1
+endpoint_task_id=livenv1
+worktree=/tmp/fm-live-root/novariants/treehouse/.treehouse/project-972ddd/1/project
+project=/tmp/fm-live-root/novariants/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/livenv1
+tasktmp=/tmp/fm-livenv1
+model=opencode-go/mimo-v2.6-pro
+effort=high
+busy_gen=g1791314816.374734.5562
+spawn_gen=s1791314816.374181.12501

@@ -1,0 +1,1 @@
+spawned livez0 harness=opencode kind=ship mode=no-mistakes yolo=off window=firstmate:fm-livez0 worktree=/tmp/fm-live-root/timeoutzero/treehouse/.treehouse/project-939bb8/1/project

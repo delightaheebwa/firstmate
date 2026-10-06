@@ -1,0 +1,14 @@
+window=firstmate:fm-liveab3
+endpoint_task_id=liveab3
+worktree=/tmp/fm-live-root/absent/treehouse/.treehouse/project-a6bc2a/1/project
+project=/tmp/fm-live-root/absent/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/liveab3
+tasktmp=/tmp/fm-liveab3
+model=opencode-go/deepseek-v4.1-flash
+effort=high
+busy_gen=g1791316555.600947.23446
+spawn_gen=s1791316556.600484.3287

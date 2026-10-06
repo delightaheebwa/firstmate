@@ -1,0 +1,14 @@
+window=firstmate:fm-livecat2
+endpoint_task_id=livecat2
+worktree=/tmp/fm-live-root/catalog/treehouse/.treehouse/project-6ba35c/1/project
+project=/tmp/fm-live-root/catalog/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/livecat2
+tasktmp=/tmp/fm-livecat2
+model=opencode-go/deepseek-v4.1-flash
+effort=high
+busy_gen=g1791314656.358272.19438
+spawn_gen=s1791314656.357822.1000

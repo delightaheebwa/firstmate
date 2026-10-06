@@ -1,0 +1,2 @@
+firstmate:0: bash* (1 panes) [80x24] 
+firstmate:1: fm-liveb1 (1 panes) [80x24] 

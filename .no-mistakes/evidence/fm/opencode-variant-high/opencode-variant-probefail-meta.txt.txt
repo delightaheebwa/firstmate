@@ -1,0 +1,14 @@
+window=firstmate:fm-livepf1
+endpoint_task_id=livepf1
+worktree=/tmp/fm-live-root/probefail/treehouse/.treehouse/project-4eb352/1/project
+project=/tmp/fm-live-root/probefail/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/livepf1
+tasktmp=/tmp/fm-livepf1
+model=nope/whatever
+effort=high
+busy_gen=g1791314883.387914.26349
+spawn_gen=s1791314884.387465.21707

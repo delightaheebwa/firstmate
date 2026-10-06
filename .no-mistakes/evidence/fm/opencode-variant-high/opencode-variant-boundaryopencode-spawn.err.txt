@@ -1,0 +1,3 @@
+fm-gate-refuse: gate agent lifecycle permitted only against lab home /tmp/fm-live-root/boundary/boundaryopencode/lab
+warning: /tmp/fm-live-root/boundary/boundaryopencode/lab/data/liveb1/launch-brief.md records no ship branch; defaulting to legacy branch fm/liveb1
+warning: /tmp/fm-live-root/boundary/boundaryopencode/lab/data/liveb1/launch-brief.md records no delivery contract line (scaffolded before ship briefs recorded one); launching on the explicit --mode no-mistakes - confirm its definition of done matches

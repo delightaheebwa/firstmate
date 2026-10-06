@@ -1,0 +1,1 @@
+spawned liveam1 harness=opencode kind=ship mode=no-mistakes yolo=off window=firstmate:fm-liveam1 worktree=/tmp/fm-live-root/anthropicmed/treehouse/.treehouse/project-9c3c72/1/project

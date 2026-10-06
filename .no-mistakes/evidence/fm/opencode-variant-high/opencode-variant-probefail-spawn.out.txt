@@ -1,0 +1,1 @@
+spawned livepf1 harness=opencode kind=ship mode=no-mistakes yolo=off window=firstmate:fm-livepf1 worktree=/tmp/fm-live-root/probefail/treehouse/.treehouse/project-4eb352/1/project

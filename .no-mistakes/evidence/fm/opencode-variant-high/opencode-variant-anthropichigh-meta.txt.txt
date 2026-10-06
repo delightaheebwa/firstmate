@@ -1,0 +1,14 @@
+window=firstmate:fm-liveah1
+endpoint_task_id=liveah1
+worktree=/tmp/fm-live-root/anthropichigh/treehouse/.treehouse/project-d9b021/1/project
+project=/tmp/fm-live-root/anthropichigh/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/liveah1
+tasktmp=/tmp/fm-liveah1
+model=anthropic/claude-sonnet-4-5
+effort=high
+busy_gen=g1791314845.380145.18177
+spawn_gen=s1791314845.379707.5165

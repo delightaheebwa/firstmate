@@ -1,0 +1,14 @@
+window=firstmate:fm-livelack1
+endpoint_task_id=livelack1
+worktree=/tmp/fm-live-root/cataloglack/treehouse/.treehouse/project-8343d3/1/project
+project=/tmp/fm-live-root/cataloglack/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/livelack1
+tasktmp=/tmp/fm-livelack1
+model=opencode-go/qwen3.8-flash
+effort=high
+busy_gen=g1791314829.377405.27879
+spawn_gen=s1791314829.376958.18513

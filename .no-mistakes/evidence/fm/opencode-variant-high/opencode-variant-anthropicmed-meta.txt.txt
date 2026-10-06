@@ -1,0 +1,14 @@
+window=firstmate:fm-liveam1
+endpoint_task_id=liveam1
+worktree=/tmp/fm-live-root/anthropicmed/treehouse/.treehouse/project-9c3c72/1/project
+project=/tmp/fm-live-root/anthropicmed/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/liveam1
+tasktmp=/tmp/fm-liveam1
+model=anthropic/claude-sonnet-4-5
+effort=medium
+busy_gen=g1791314858.382717.24853
+spawn_gen=s1791314858.382270.13885

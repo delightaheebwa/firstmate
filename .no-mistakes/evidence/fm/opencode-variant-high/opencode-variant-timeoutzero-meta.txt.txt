@@ -1,0 +1,14 @@
+window=firstmate:fm-livez0
+endpoint_task_id=livez0
+worktree=/tmp/fm-live-root/timeoutzero/treehouse/.treehouse/project-939bb8/1/project
+project=/tmp/fm-live-root/timeoutzero/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/livez0
+tasktmp=/tmp/fm-livez0
+model=opencode-go/deepseek-v4.1-flash
+effort=high
+busy_gen=g1791314943.393317.27358
+spawn_gen=s1791314944.392864.17033

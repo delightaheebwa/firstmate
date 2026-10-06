@@ -1,0 +1,1 @@
+error: malformed rules file: /tmp/fm-live-root/validators/lab/config/crew-dispatch.json - each use profile effort must be supported by its harness and model

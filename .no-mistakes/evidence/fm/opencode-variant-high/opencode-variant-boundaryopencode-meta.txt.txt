@@ -1,0 +1,14 @@
+window=firstmate:fm-liveb1
+endpoint_task_id=liveb1
+worktree=/tmp/fm-live-root/boundary/boundaryopencode/treehouse/.treehouse/project-d29b0d/1/project
+project=/tmp/fm-live-root/boundary/boundaryopencode/project
+harness=opencode
+kind=ship
+mode=no-mistakes
+yolo=off
+branch=fm/liveb1
+tasktmp=/tmp/fm-liveb1
+model=opencode-go/deepseek-v4.1-flash
+effort=high
+busy_gen=g1791315537.415497.16977
+spawn_gen=s1791315537.415066.27727

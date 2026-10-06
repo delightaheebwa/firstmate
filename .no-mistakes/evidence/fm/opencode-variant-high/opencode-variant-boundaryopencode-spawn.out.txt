@@ -1,0 +1,1 @@
+spawned liveb1 harness=opencode kind=ship mode=no-mistakes yolo=off window=firstmate:fm-liveb1 worktree=/tmp/fm-live-root/boundary/boundaryopencode/treehouse/.treehouse/project-d29b0d/1/project

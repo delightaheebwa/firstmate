@@ -1,0 +1,1 @@
+spawned liveox1 harness=opencode kind=ship mode=no-mistakes yolo=off window=firstmate:fm-liveox1 worktree=/tmp/fm-live-root/openaixhigh/treehouse/.treehouse/project-f096b7/1/project
