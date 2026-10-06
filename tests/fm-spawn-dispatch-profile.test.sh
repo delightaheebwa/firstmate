@@ -939,9 +939,10 @@ test_opencode_failed_catalog_probe_keeps_permission_only() {
   rec=$(make_spawn_case profile-opencode-probefail opencode "$id")
   read_case_record "$rec"
 
-  FM_TEST_OPENCODE_MODELS_STATUS=124 \
-    out=$(run_ship_spawn "$HOME_DIR" "$WT_DIR" "$FAKEBIN_DIR" "$LAUNCH_LOG" "$id" "$PROJ_DIR" --model opencode-go/deepseek-v4.1-flash --effort high)
+  FM_TEST_OPENCODE_MODELS_STATUS=124
+  out=$(run_ship_spawn "$HOME_DIR" "$WT_DIR" "$FAKEBIN_DIR" "$LAUNCH_LOG" "$id" "$PROJ_DIR" --model opencode-go/deepseek-v4.1-flash --effort high)
   status=$?
+  unset FM_TEST_OPENCODE_MODELS_STATUS
   expect_code 0 "$status" "opencode spawn should keep the permission-only launch when the catalog probe fails"
   assert_meta_profile "$HOME_DIR/state/$id.meta" opencode opencode-go/deepseek-v4.1-flash high
   launch=$(cat "$LAUNCH_LOG")

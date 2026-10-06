@@ -2732,6 +2732,9 @@ effort_flag_for_harness() {
     case "${model%%/*}:$effort" in
     anthropic:high | anthropic:max) ;;
     openai:low | openai:medium | openai:high | openai:xhigh) ;;
+    # The verified anthropic and openai lists stay authoritative: an effort
+    # outside them is omitted even if a newer catalog entry would expose it.
+    anthropic:* | openai:*) return 0 ;;
     *) opencode_model_has_variant "$model" "$effort" || return 0 ;;
     esac
     local model_json
